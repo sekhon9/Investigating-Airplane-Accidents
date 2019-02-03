@@ -3,7 +3,7 @@
 We'll be working with a data set that contains 77,282 aviation accidents that occurred in the U.S., and the metadata associated with them. The data in our AviationData.txt file comes from the National Transportation Safety Board (NTSB).
 Each row contains data about a single aviation accident. Here are descriptions for some of the columns:
 
-Event Id - The unique id for the incident
+*  Event Id - The unique id for the incident
 Investigation Type - The type of investigation the NTSB conducted
 Event Date - The date of the accident
 Location - Where the accident occurred
